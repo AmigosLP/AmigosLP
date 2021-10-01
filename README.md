@@ -4,7 +4,7 @@
 
 - **21** years old
 - **Tuzla**, Bosnia and Herzegovina
-- **Karlo Ivic** A.k.a AmigosLP
+- **Karlo Ivic** A.k.a AmigosLP (I will explain my nickname)
 - **FIT** (Faculty of Information Technology) Mostar 
 - **Second year software engineering student**
 - for more **info** -> https://www.fit.ba/
@@ -20,8 +20,6 @@ Skills:  **HTML - CSS - JS - C++ - Python** for now. I strive to achieve my goal
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmigosLP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karlo-ivic-93278b205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/karlo.ivic.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karlo_i18/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmigosLP)](https://github.com/anuraghazra/github-readme-stats)
 
