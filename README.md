@@ -6,7 +6,7 @@
 - **Tuzla**, Bosnia and Herzegovina
 - **Karlo Ivic** A.k.a AmigosLP 
 - **FIT** (Faculty of Information Technologies) Mostar 
-- **Second year software engineering student**
+- **Second year (2/4) software engineering student**
 - for more **info** -> https://www.fit.ba/
 -  An **organization** run by my colleagues and me -> https://github.com/Infinity-Vault
 - Which program editors do I use? **Visual Studio 2019 Enterprise** and **Visual Studio Code** 
