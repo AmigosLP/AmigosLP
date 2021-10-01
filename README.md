@@ -5,7 +5,7 @@
 - **21** years old
 - **Tuzla**, Bosnia and Herzegovina
 - **Karlo Ivic** A.k.a AmigosLP 
-- **FIT** (Faculty of Information Technology) Mostar 
+- **FIT** (Faculty of Information Technologies) Mostar 
 - **Second year software engineering student**
 - for more **info** -> https://www.fit.ba/
 -  An **organization** run by my colleagues and me -> https://github.com/Infinity-Vault
