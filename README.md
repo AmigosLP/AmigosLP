@@ -16,7 +16,7 @@ Skills:  **HTML - CSS - JS - C++ - Python** for now. I strive to achieve my goal
 - 🌱 I’m currently learning C#, database, computer networks. 
 - 💬 Ask me about If you have questions, criticisms, compliments or business ideas you can contact me very gladly on my private email or my school email.       **links below** 
 - 📫 How to reach me: **school mail** : karloivic@edu.fit.ba or **private email**: ivickarlo2000@gmail.com  
-- ⚡ Fun fact: I trained martial arts for 5 years, primarily Israeli self-defense called **Krav Maga** and I gained 3 levels there. I like to meet new people, exchange opinions and related ideas. I believe that learning and working in any segment is always rewarded. Follow technologies, learn and keep up with the times. 
+- ⚡ Fun fact: I trained martial arts for 5 years, primarily Israel self-defense called **Krav Maga** and I gained 3 levels there. I like to meet new people, exchange opinions and related ideas. I believe that learning and working in any segment is always rewarded. Follow technologies, learn and keep up with the times. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmigosLP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karlo-ivic-93278b205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/karlo.ivic.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karlo_i18/)  
