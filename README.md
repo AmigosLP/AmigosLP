@@ -15,7 +15,7 @@ Skills:  **HTML - CSS - JS - C++ - Python** for now. I strive to achieve my goal
 
 - 🌱 I’m currently learning C#, database, computer networks. 
 - 💬 Ask me about If you have questions, criticisms, compliments or business ideas you can contact me very gladly on my private email or my school email.       **links below** 
-- 📫 How to reach me: **school mail** : karloivic@edu.fit.ba or **private email**: ivickarlo2000@gmail.com  
+- 📫 How to reach me: **school email** : karloivic@edu.fit.ba or **private email**: ivickarlo2000@gmail.com  
 - ⚡ Fun fact: I trained martial arts for 5 years, primarily Israel self-defense called **Krav Maga** and I gained 3 levels there. I like to meet new people, exchange opinions and related ideas. I believe that learning and working in any segment is always rewarded. Follow technologies, learn and keep up with the times. 
 
 
