@@ -16,7 +16,7 @@ Skills:  **HTML - CSS - JS - C++ - Python** for now. I strive to achieve my goal
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg" width=40px height=40px alt="C++"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=40px height=40px alt="HTML"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=40px height=40px alt="CSS"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=40px height=40px alt="JavaScript"> <img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-x750.jpg" width=50px height=40px alt="Python">
 
 - 🌱 I’m currently learning C#, database, computer networks. 
-- 💬Feel free to ask me any questions, criticisms, compliments or business ideas you can contact me very gladly on my private email or my school email.       **links below** 
+- 💬Feel free to ask me any questions. Criticisms, compliments or business ideas you can contact me very gladly on my private email or my school email.       **links below** 
 - 📫 How to reach me: **school email** : karloivic@edu.fit.ba or **private email**: ivickarlo2000@gmail.com  
 - ⚡ Fun fact: I trained martial arts for 5 years, primarily Israel self-defense called **Krav Maga** and I gained 3 levels there. I like to meet new people, exchange opinions and related ideas. I believe that learning and working in any segment is always rewarded. Follow technologies, learn and keep up with the times. 
 
