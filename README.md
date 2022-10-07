@@ -11,7 +11,7 @@
 -  An **organization** run by my colleagues and me -> https://github.com/Infinity-Vault
 - Which program editors do I use? **Visual Studio 2022 Enterprise** and **Visual Studio Code** 
 
-Skills:  **HTML - CSS - JS - C++ - Python - SQL- C#** for now. I strive to achieve my goal and to know as many programming languages as possible. And I want to improve myself primarily with IT principles and ethics. In the near future, I want to work hard and strive to become a **full stack developer**. 
+Skills:  **HTML - CSS - JS - C++ - Python - SQL - C#** for now. I strive to achieve my goal and to know as many programming languages as possible. And I want to improve myself primarily with IT principles and ethics. In the near future, I want to work hard and strive to become a **full stack developer**. 
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/cplusplus/cplusplus-original.svg" width=40px height=40px alt="C++"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=40px height=40px alt="HTML"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=40px height=40px alt="CSS"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=40px height=40px alt="JavaScript"> <img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-x750.jpg" width=50px height=40px alt="Python">
 
