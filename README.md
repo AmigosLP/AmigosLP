@@ -2,7 +2,6 @@
 
 - **23** years old
 - **Tuzla**, Bosnia and Herzegovina
-- **Karlo Ivic** A.k.a AmigosLP 
 - **FIT** (Faculty of Information Technologies) Mostar 
 - **Third year (4/4) software engineering student**
 - For more **info** -> https://www.fit.ba/
